@@ -1,0 +1,3 @@
+eventType,type,mme_teid_S11,sgw_teid_S11,EPS_Bearer_ID,IMSI,MCC,MNC,MME_IP,UEID
+eventType,type,mme_teid_S11,sgw_teid_S11,EPS_Bearer_ID,sgw_teid_S1,eNB_teid_S1u,SGW_IP_S1u,eNB_IP_S1u,UE_IP,UEID
+eventType,type,mme_teid_S11,sgw_teid_S11,EPS_Bearer_ID,sgw_teid_S1,eNB_teid_S1u,SGW_IP_S1u,eNB_IP_S1u,UE_IP,UEID
