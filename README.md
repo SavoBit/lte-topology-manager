@@ -18,7 +18,7 @@ Deliverable | [3.4](https://github.com/Selfnet-5G/WP3_SO/blob/master/Doku/D3.4/D
 
 LTE Topology Manager is gathering information from different txt files, combining it together and sending it to a Message Broker.
 It could work as a Daemon (background) or not. It combines a file with the topological information from the user with another one with the names (headers) of the fields in order to understand the topological information stored from a given the user. The txt files are
-produced by the modified version of the OpenAirInterface project. It has publically a branch entitled "lte_topology" with the modification required to run this component. 
+produced by the modified version of the OpenAirInterface project. It has publically in their own repository (hosted by Eurescom) a branch entitled "lte_topology" with the modification required to run this component. 
 
 # Usage
 
